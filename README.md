@@ -55,6 +55,7 @@
 	      }
 	     }
   	 },
+	
 	2.(.env.development)
 	# just a flag
 	ENV = 'development'
@@ -63,6 +64,7 @@
 	# VUE_APP_BASE_API = '/dev-api'
 	
 	VUE_APP_BASE_API = '/api/v1'
+	
 	3.(使用写好的api)
 	传送门:https://github.com/fq47523/go-gin-api-demo
 
